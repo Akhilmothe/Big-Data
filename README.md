@@ -24,7 +24,7 @@ There are different kinds of big data, they are:
 6. Graph Data - This data is quite similar to Entity - Relationship kind of representation making connections between two things and making relationships. Examples like road networks, organisational hierarchies.
 7. Spatio - temporal Data - This kind of data combines both location-based and time-based information to track and analyze objects in space and time. Examples includes weather data, environmental monitoring, traffic data and supply chain management etc.
 
-6 V’s of Big data -
+#6 V’s of Big data -
 
 The 6 ‘V’s of Big Data provide a framework for understanding and managing large and complex sets of information. 
 
