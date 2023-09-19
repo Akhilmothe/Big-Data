@@ -8,10 +8,10 @@ Submit the link to the file (make sure your instructor and grader can access it)
 
 ## 1. Bigdata -
    
-Certainly! Big data refers to large and complex sets of information that are not easy to process or handle and are difficult to analyse with traditional data processing tools and methods. It involves dealing with large amounts of data, constantly generated from various sources like social networks, including text, images, audio, and video data, IoT devices, healthcare records and devices, financial and online transactions, satellites, mobile devices, machines, customer interactions, and many more.
+Big data refers to large and complex sets of information that are not easy to process or handle and are difficult to analyse with traditional data processing tools and methods. It involves dealing with large amounts of data, constantly generated from various sources like social networks, IoT devices, healthcare records and devices, financial and online transactions, satellites, mobile devices, machines, customer interactions, and many more.
 
 ## Examples of big data -
-Social media posts, messages, emails, satellite imagery, sensor data, weather data, medical records, financial and online transactions, health device data, stock market data, etc.
+Social media posts, messages, emails, satellite images, sensor data, weather data, medical records, financial and online transactions, health device data, stock market data, etc.
 
 ## Types of big data -
 
@@ -76,6 +76,11 @@ Privacy is a big concern in Big Data. This is because, in large datasets, it's p
 
 Challenge 5: Human Collaboration
 Human collaboration can be a challenge in Big Data. Handling and making sense of large and complex datasets often require the expertise and collaboration of people from different domains, such as data scientists, engineers, domain experts, and business analysts. This means that humans play a crucial role in understanding and interpreting the data. In practice, it's often a team effort, where different experts work together. However, dealing with disagreements, uncertainties, and mistakes from different sources should be done effectively.
+
+References:
+
+[1] R Rawat and R Yadav 2021 IOP Conf. Ser.: Mater. Sci. Eng. 1022 012014 
+[2] Agrawal, D., Bernstein, P., &amp; Bertino, E. (n.d.). Challenges and Opportunities with Big Data 2011-1. Purdue e-Pubs. https://docs.lib.purdue.edu/cctech/1/ 
 
 
    
