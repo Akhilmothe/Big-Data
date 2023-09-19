@@ -38,7 +38,7 @@ The 6 ‘V’s of Big Data provide a framework for understanding and managing la
  ![image](https://github.com/Akhilmothe/Big-Data/assets/114513479/153ea49a-ab15-4911-9a8d-ca939ba98a02)
 
 
-## Image Source: Sydle. (2023). Big Data: definition, importance, and types. Blog SYDLE. https://www.sydle.com/blog/big-data-	definition-importance-and-types-614b791388e600016afa7fc3
+Image Source: Sydle. (2023). Big Data: definition, importance, and types. Blog SYDLE. https://www.sydle.com/blog/big-data-	definition-importance-and-types-614b791388e600016afa7fc3
 
 
 1. Volume : As its name suggests, volume refers to the ‘amount of data’ which is increasing day by day that is collected from a variety of sources and devices in a continuous manner.
