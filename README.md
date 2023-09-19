@@ -3,7 +3,7 @@ Create a markdown in your Github account discussing the following topics:
 - 6 ‘V’s of Big Data (define each)
 - Phases of Big Data analysis (discuss each)
 - Challenges in Big Data analysis (discuss each)
-Use your OWN words. Mention the source(s) in APA style.
+Use your OWN words. Mention the source(s) in APA style. 
 Submit the link to the file (make sure your instructor and grader can access it) and a PDF file.
 
 ## 1. Bigdata -
