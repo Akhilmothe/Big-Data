@@ -6,14 +6,14 @@ Create a markdown in your Github account discussing the following topics:
 Use your OWN words. Mention the source(s) in APA style. 
 Submit the link to the file (make sure your instructor and grader can access it) and a PDF file.
 
-## 1. Bigdata -
+# 1. Bigdata -
    
 Big data refers to large and complex sets of information that are not easy to process or handle and are difficult to analyse with traditional data processing tools and methods. It involves dealing with large amounts of data, constantly generated from various sources like social networks, IoT devices, healthcare records and devices, financial and online transactions, satellites, mobile devices, machines, customer interactions, and many more.
 
-## Examples of big data -
+# Examples of big data -
 Social media posts, messages, emails, satellite images, sensor data, weather data, medical records, financial and online transactions, health device data, stock market data, etc.
 
-## Types of big data -
+# Types of big data -
 
 There are different kinds of big data, they are:
 1. Structured Data - Data that is organised in the form of rows and columns like spreadsheet, excel and csv files.
@@ -24,7 +24,7 @@ There are different kinds of big data, they are:
 6. Graph Data - This data is quite similar to Entity - Relationship kind of representation making connections between two things and making relationships. Examples like road networks, organisational hierarchies.
 7. Spatio - temporal Data - This kind of data combines both location-based and time-based information to track and analyze objects in space and time. Examples includes weather data, environmental monitoring, traffic data and supply chain management etc.
 
-## 2. 6 V’s of Big data -
+# 2. 6 V’s of Big data -
 
 The 6 ‘V’s of Big Data provide a framework for understanding and managing large and complex sets of information. 
 
@@ -46,7 +46,7 @@ Veracity : Veracity is nothing but quality and accuracy of data. In order to get
 
 Value : Value in big data refers to finding valuable insights from the data which helps to make more informed decisions. 
 
-## 3. Phases of Big Data analysis -
+# 3. Phases of Big Data analysis -
 
 There are five phases involved in big data analysis. They are:
 
@@ -60,7 +60,7 @@ Query Processing, Data Modelling, and Analysis: A query is a simple method to ex
 
 Interpretation : Interpretation involves the concept of understanding and explaining the meaning or significance of information, or results. Sometimes verifying the results requires additional data, using visual representations, such as charts or graphs, can be helpful in this process. It makes it easier to validate the results.
 
-## 4. Challenges in Big Data analysis -
+# 4. Challenges in Big Data analysis -
 
 Challenge 1: Heterogeneity and Incompleteness.
 Machine learning algorithms expect homogeneous data and cannot understand any kind of differences. We need to put more effort into making semi – structured data easy to represent, access, and analyze efficiently. Even after we’ve gone through the process of cleaning and fixing data, there’s a great possibility of missing information and inaccuracies.
