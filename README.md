@@ -16,13 +16,20 @@ Social media posts, messages, emails, satellite images, sensor data, weather dat
 # Types of big data -
 
 There are different kinds of big data, they are:
+
 1. Structured Data - Data that is organised in the form of rows and columns like spreadsheet, excel and csv files.
-2. Unstructured Data - Data which is not in a specific order like social media texts, audio, images and video content.
-3. Semi-Structured Data - Data which is partially organised with labels like JSON, HTML, XML and Log files.
-4. Batch Data - This data is nothing but collection of data in chunks or groups rather than processing individually or in real-time. Examples include student report cards, ATM transactions, online orders.
-5. Streaming Data - Unlike batch data this data is continously generated, transmitted and processed over time. This data is very useful for organisations to make quick and organised desicions over chaninging conditions. Examples include social media data, sensor data, stock market data, traffic monitoring and many more.
-6. Graph Data - This data is quite similar to Entity - Relationship kind of representation making connections between two things and making relationships. Examples like road networks, organisational hierarchies.
-7. Spatio - temporal Data - This kind of data combines both location-based and time-based information to track and analyze objects in space and time. Examples includes weather data, environmental monitoring, traffic data and supply chain management etc.
+   
+3. Unstructured Data - Data which is not in a specific order like social media texts, audio, images and video content.
+   
+5. Semi-Structured Data - Data which is partially organised with labels like JSON, HTML, XML and Log files.
+   
+7. Batch Data - This data is nothing but collection of data in chunks or groups rather than processing individually or in real-time. Examples include student report cards, ATM transactions, online orders.
+   
+9. Streaming Data - Unlike batch data this data is continously generated, transmitted and processed over time. This data is very useful for organisations to make quick and organised desicions over chaninging conditions. Examples include social media data, sensor data, stock market data, traffic monitoring and many more.
+    
+11. Graph Data - This data is quite similar to Entity - Relationship kind of representation making connections between two things and making relationships. Examples like road networks, organisational hierarchies.
+    
+13. Spatio - temporal Data - This kind of data combines both location-based and time-based information to track and analyze objects in space and time. Examples includes weather data, environmental monitoring, traffic data and supply chain management etc.
 
 # 2. 6 V’s of Big data -
 
@@ -34,17 +41,17 @@ The 6 ‘V’s of Big Data provide a framework for understanding and managing la
 Image Source: Sydle. (2023). Big Data: definition, importance, and types. Blog SYDLE. https://www.sydle.com/blog/big-data-	definition-importance-and-types-614b791388e600016afa7fc3
 
 
-Volume : As its name suggests, volume refers to the ‘amount of data’ which is increasing day by day that is collected from a variety of sources and devices in a continuous manner.
+1. Volume : As its name suggests, volume refers to the ‘amount of data’ which is increasing day by day that is collected from a variety of sources and devices in a continuous manner.
 
-Velocity : Big data velocity refers to the speed at which data is generated every day. A great example of big data that is generated with great velocity would be tweets in X app, Facebook and 	Instagram posts etc.
+2. Velocity : Big data velocity refers to the speed at which data is generated every day. A great example of big data that is generated with great velocity would be tweets in X app, Facebook and 	Instagram posts etc.
 
-Variety : As there are many sources which are contributing to big data like structured, semi-structured and unstructured, the type of data that is generated from these sources is different. Hence, variety in big data refers to different forms of data.
+3. Variety : As there are many sources which are contributing to big data like structured, semi-structured and unstructured, the type of data that is generated from these sources is different. Hence, variety in big data refers to different forms of data.
 
-Variability : Variability in big data refers to the number of inconsistencies in data because the data is changing constantly. For example, variability in stock market is like how stock prices can quickly go up and down, creating uncertainty for investors.
+4. Variability : Variability in big data refers to the number of inconsistencies in data because the data is changing constantly. For example, variability in stock market is like how stock prices can quickly go up and down, creating uncertainty for investors.
 
-Veracity : Veracity is nothing but quality and accuracy of data. In order to get maximum benefit from the data we have to make sure that the information should be correct and reliable.
+5. Veracity : Veracity is nothing but quality and accuracy of data. In order to get maximum benefit from the data we have to make sure that the information should be correct and reliable.
 
-Value : Value in big data refers to finding valuable insights from the data which helps to make more informed decisions. 
+6. Value : Value in big data refers to finding valuable insights from the data which helps to make more informed decisions. 
 
 # 3. Phases of Big Data analysis -
 
