@@ -57,23 +57,23 @@ Image Source: Sydle. (2023). Big Data: definition, importance, and types. Blog S
 
 There are five phases involved in big data analysis. They are:
 
-## 1. Data Acquisition and Recording: 
+## Data Acquisition and Recording: 
 
    This means getting data from different places, like files, websites, or sensors. Saving them in a safe and organized way so it can be used for analysis at later stages. For example, when we use our credit        card to purchase something system requires data like amount, data and location for transaction. This data is recorded in our statement so we can view them later and keep track of expenses.
 
-## 2. Information extraction and cleaning: 
+## Information extraction and cleaning: 
 
    Information extraction is nothing but pulling out valuable information from larger dataset making it easier to understand. After you extract the information, you often need to clean it. This means removing       the errors, mistakes, or inconsistencies in data is called data cleaning.
 
-## 3. Data Integration, Aggregation, and Representation: 
+## Data Integration, Aggregation, and Representation: 
       
    Data integration and aggregation means bringing the data together from different sources and making it as whole and summarizing or grouping the data to see the big picture. Data representation is presenting     same data in clear and understandable manner in the form of visualizations like graphs, charts, histograms etc.
 
-## 4. Query Processing, Data Modelling, and Analysis: 
+## Query Processing, Data Modelling, and Analysis: 
 
    A query is a simple method to extract specific, valuable portions of data from a larger dataset. 	A data model is a conceptual framework that arranges data elements and defines how they interact with each      other in an organized way. There are different types of data models, such as database models, entity-relationship models, semantic models etc. When it comes to big data analysis, using only SQL queries isn’t    enough. This is because all the data is not stored in traditional SQL databases.
 
-## 5 .Interpretation : 
+## Interpretation : 
 
    Interpretation involves the concept of understanding and explaining the meaning or significance of information, or results. Sometimes verifying the results requires additional data, using visual        
    representations, such as charts or graphs, can be helpful in this process. It makes it easier to validate the results.
