@@ -99,7 +99,7 @@ Human collaboration can be a challenge in Big Data. Handling and making sense of
 
 - [1] R Rawat and R Yadav 2021 IOP Conf. Ser.: Mater. Sci. Eng. 1022 012014.https://iopscience.iop.org/article/10.1088/1757-899X/1022/1/012014/pdf
 - [2] Agrawal, D., Bernstein, P., &amp; Bertino, E. (n.d.). Challenges and Opportunities with Big Data 2011-1. Purdue e-Pubs. https://docs.lib.purdue.edu/cctech/1/ 
-
+ 
 
    
 
