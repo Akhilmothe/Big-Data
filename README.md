@@ -57,34 +57,45 @@ Image Source: Sydle. (2023). Big Data: definition, importance, and types. Blog S
 
 There are five phases involved in big data analysis. They are:
 
-Data Acquisition and Recording: This means getting data from different places, like files, websites, or sensors. Saving them in a safe and organized way so it can be used for analysis at later stages. For example, when we use our credit card to purchase something system requires data like amount, data and location for transaction. This data is recorded in our statement so we can view them later and keep track of expenses.
+## 1. Data Acquisition and Recording: 
 
-Information extraction and cleaning: Information extraction is nothing but pulling out valuable information from larger dataset making it easier to understand. After you extract the information, you often need to clean it. This means removing the errors, mistakes, or inconsistencies in data is called data cleaning.
+   This means getting data from different places, like files, websites, or sensors. Saving them in a safe and organized way so it can be used for analysis at later stages. For example, when we use our credit        card to purchase something system requires data like amount, data and location for transaction. This data is recorded in our statement so we can view them later and keep track of expenses.
 
-Data Integration, Aggregation, and Representation: Data integration and aggregation means bringing the data together from different sources and making it as whole and summarizing or grouping the data to see the big picture. Data representation is presenting same data in clear and understandable manner in the form of visualizations like graphs, charts, histograms etc.
+## 2. Information extraction and cleaning: 
 
-Query Processing, Data Modelling, and Analysis: A query is a simple method to extract specific, valuable portions of data from a larger dataset. 	A data model is a conceptual framework that arranges data elements and defines how they interact with each other in an organized way. There are different types of data models, such as database models, entity-relationship models, semantic models etc. When it comes to big data analysis, using only SQL queries isn’t enough. This is because all the data is not stored in traditional SQL databases.
+   Information extraction is nothing but pulling out valuable information from larger dataset making it easier to understand. After you extract the information, you often need to clean it. This means removing       the errors, mistakes, or inconsistencies in data is called data cleaning.
 
-Interpretation : Interpretation involves the concept of understanding and explaining the meaning or significance of information, or results. Sometimes verifying the results requires additional data, using visual representations, such as charts or graphs, can be helpful in this process. It makes it easier to validate the results.
+## 3. Data Integration, Aggregation, and Representation: 
+      
+   Data integration and aggregation means bringing the data together from different sources and making it as whole and summarizing or grouping the data to see the big picture. Data representation is presenting     same data in clear and understandable manner in the form of visualizations like graphs, charts, histograms etc.
+
+## 4. Query Processing, Data Modelling, and Analysis: 
+
+   A query is a simple method to extract specific, valuable portions of data from a larger dataset. 	A data model is a conceptual framework that arranges data elements and defines how they interact with each      other in an organized way. There are different types of data models, such as database models, entity-relationship models, semantic models etc. When it comes to big data analysis, using only SQL queries isn’t    enough. This is because all the data is not stored in traditional SQL databases.
+
+## 5 .Interpretation : 
+
+   Interpretation involves the concept of understanding and explaining the meaning or significance of information, or results. Sometimes verifying the results requires additional data, using visual        
+   representations, such as charts or graphs, can be helpful in this process. It makes it easier to validate the results.
 
 # 4. Challenges in Big Data analysis -
 
-Challenge 1: Heterogeneity and Incompleteness.
+## Challenge 1: Heterogeneity and Incompleteness.
 Machine learning algorithms expect homogeneous data and cannot understand any kind of differences. We need to put more effort into making semi – structured data easy to represent, access, and analyze efficiently. Even after we’ve gone through the process of cleaning and fixing data, there’s a great possibility of missing information and inaccuracies.
 
-Challenge 2: Scale
+## Challenge 2: Scale
 Scale of big data is a significant challenge. Since the volume of data is growing rapidly than available resources it is becoming harder to manage it. For example, think as you run a small online store, and you want to analyze customer data to improve business. You can easily use a spreadsheet for analysing it. After some years your business grows, more and more customers grows. Using a simple spreadsheet won’t work anymore we need specialized tools and infrastructure to manage and analyze such a large scale of data. This is the big issue in the world of big data. Cloud computing, distributed computing frameworks, data warehousing are possible solutions for this challenge.
 
-Challenge 3: Timeliness
+## Challenge 3: Timeliness
 Timeliness in big data refers to the challenge of processing and analyzing data quickly. If you don’t analyze the data quickly you could miss the opportunities or even run into issues. To handle this challenge, there are special tools and technologies that help analyze data in real – time.
 
-Challenge 4: Privacy
+## Challenge 4: Privacy
 Privacy is a big concern in Big Data. This is because, in large datasets, it's possible to uncover new information, like personal details based on factors such as location and time. Keeping this data private is not just a technical problem but also involves societal considerations like ethics and public perception. It's a challenge to protect people's data while still benefiting from the insights Big Data can provide through responsible data sharing. 
 
-Challenge 5: Human Collaboration
+## Challenge 5: Human Collaboration
 Human collaboration can be a challenge in Big Data. Handling and making sense of large and complex datasets often require the expertise and collaboration of people from different domains, such as data scientists, engineers, domain experts, and business analysts. This means that humans play a crucial role in understanding and interpreting the data. In practice, it's often a team effort, where different experts work together. However, dealing with disagreements, uncertainties, and mistakes from different sources should be done effectively.
 
-References:
+## References:
 
 - [1] R Rawat and R Yadav 2021 IOP Conf. Ser.: Mater. Sci. Eng. 1022 012014.https://iopscience.iop.org/article/10.1088/1757-899X/1022/1/012014/pdf
 - [2] Agrawal, D., Bernstein, P., &amp; Bertino, E. (n.d.). Challenges and Opportunities with Big Data 2011-1. Purdue e-Pubs. https://docs.lib.purdue.edu/cctech/1/ 
